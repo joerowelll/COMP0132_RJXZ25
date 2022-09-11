@@ -120,6 +120,12 @@ All of these libraries are added to this repository as submodules, or directly a
     make -j4
     cd ..
     ```
+- Make conda environment:
+```
+git clone https://github.com/joerowelll/COMP0132_RJXZ25.git
+cd COMP0132_RJXZ25
+conda env create --name comp0132 --file=environments.yml
+```
 #### Semantic Labelling of 3D Points
 Example Usage:
 ```
