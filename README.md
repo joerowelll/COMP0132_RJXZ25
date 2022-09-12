@@ -24,7 +24,7 @@
 [![Project Introduction Video](https://github.com/joerowelll/COMP0132/blob/main/images/thumbnail.jpeg)](https://www.youtube.com/watch?v=hrHsb8gOGck&t=5s)
 ### Project Structure
 ```
-COMP0132
+COMP0132_RJXZ25
 ├── data
 │   └── out90.png ...etc
 ├── database
@@ -41,6 +41,7 @@ COMP0132
 ├── 3rdParty
 │   ├── ceres-solver
 │   ├── colmap
+│   ├── PlaneRCNN
 │   └── DeepLab
 ├── LICENSE.TXT
 └── README.md
