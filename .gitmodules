@@ -13,3 +13,6 @@
 [submodule "ceres_solver"]
 	path = ceres_solver
 	url = https://ceres-solver.googlesource.com/ceres-solver
+[submodule "report"]
+	path = report
+	url = https://github.com/joerowelll/UCL-Thesis.git
