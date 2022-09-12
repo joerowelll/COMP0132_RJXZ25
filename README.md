@@ -28,7 +28,9 @@ COMP0132_RJXZ25
 ├── data
 │   └── out90.png ...etc
 ├── database
-│   ├── database.py
+│   ├── semantics.py
+│   ├── plane_intersection.py
+│   ├── visualise_model.py
 │   └── readBlobData.py
 ├── featureDescriptors
 │   ├── SURF.m
