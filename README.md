@@ -1,6 +1,10 @@
 # COMP0132 MSc Robotics and Computation Project
 ## Semantic Validation in Structure From Motion
+### To clone (including submodules)
+```
+git clone --recurse-submodules --remote-submodules https://github.com/joerowelll/COMP0132_RJXZ25.git
 
+```
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
