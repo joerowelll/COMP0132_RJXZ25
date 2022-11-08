@@ -165,11 +165,11 @@ Semantic Segmentation on Brighton Data-set Video Demo
 ### Database Manipulation 
 USAGE:
 ```
-$ python database.py  --database_path PATH_TO_DATABASE.db
+$ python semantics.py  --database_path PATH_TO_DATABASE.db
 ```
 Example usage:
 ```
-$ python database.py  --database_path ~/COMP0132/brighton_workspace/database.db
+$ python semantics.py  --database_path ~/COMP0132/brighton_workspace/database.db
 ```
 Reccommended file structure is as follows:
 ```
