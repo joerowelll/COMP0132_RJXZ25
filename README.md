@@ -1,5 +1,6 @@
 # COMP0132 MSc Robotics and Computation Project
 ## Semantic Validation in Structure From Motion
+A project to incorporate semantics into SfM using DeepLab semantic segmentation, for point cloud filtering.
 ### To clone (including submodules)
 ```
 git clone --recurse-submodules --remote-submodules https://github.com/joerowelll/COMP0132_RJXZ25.git
